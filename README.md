@@ -3,11 +3,17 @@
 
 **Reference:**
 
-*Python Programming Guide*   
-https://spark.apache.org/docs/0.9.2/python-programming-guide.html
-
-*Package pyspark*   
+*Python Spark (pyspark) Programming Guide*   
 https://spark.apache.org/docs/0.9.2/api/pyspark/index.html
 
-*MLib*   
-https://spark.apache.org/docs/0.9.2/api/mllib/index.html#org.apache.spark.mllib.package
+*Spark Streaming*   
+https://spark.apache.org/docs/0.9.2/streaming-programming-guide.html
+
+*Machine Learning Library (MLlib)*   
+https://spark.apache.org/docs/0.9.2/mllib-guide.html
+
+*Bagel*
+https://spark.apache.org/docs/0.9.2/bagel-programming-guide.html
+
+*GraphX*   
+https://spark.apache.org/docs/0.9.2/graphx-programming-guide.html
