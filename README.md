@@ -16,4 +16,4 @@ https://spark.apache.org/docs/0.9.2/mllib-guide.html
 https://spark.apache.org/docs/0.9.2/graphx-programming-guide.html
 
 <s>*Bagel*</s>   
-https://spark.apache.org/docs/0.9.2/bagel-programming-guide.html
+<s>https://spark.apache.org/docs/0.9.2/bagel-programming-guide.html</s>   
